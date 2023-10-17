@@ -1,0 +1,20 @@
+power supply circuit
+pixel structures of cmos imaging sensors and fabrication method thereof
+method for receiving low-resolution and high-resolution images and device therefor
+ball grid array package layout supporting many voltage splits and flexible split locations
+digital amplifier with improved performance
+switched-mode power supply device
+anti-flicker apparatus for motion detector
+power device package and method of fabricating the same
+over the air programming via a broadband access gateway
+electrode for secondary battery and production process for the same and secondary battery
+integrated circuit device including both n-channel and p-channel insulated gate field effect transistors
+video stabilization
+multi-camera dataset assembly and management with high precision timestamp requirements
+battery safety unit
+cell switch module with unit cell switching function
+xor logic circuit
+surface heating equipment
+method and system of distributing multicast group join request in computer systems operating with teamed communication ports
+method and apparatus for configuring a plurality of scheduling request triggers
+animations

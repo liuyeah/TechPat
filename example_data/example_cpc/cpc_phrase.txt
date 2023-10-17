@@ -1,0 +1,122 @@
+cables
+conductors
+insulators
+selection of materials for their conductive
+insulating or dielectric properties
+resistors
+magnets
+inductances
+transformers
+selection of materials for their magnetic properties
+capacitors
+capacitors
+rectifiers
+detectors
+switching devices or light-sensitive devices
+of the electrolytic type
+electric switches
+relays
+selectors
+emergency protective devices
+electric discharge tubes or discharge lamps
+electric incandescent lamps
+semiconductor devices
+electric solid state devices not otherwise provided for
+processes or means
+batteries
+for the direct conversion of chemical energy into electrical energy
+waveguides
+resonators
+lines
+or other devices of the waveguide type
+antennas
+i.e. radio aerials
+electrically-conductive connections
+structural associations of a plurality of mutually-insulated electrical connecting elements
+coupling devices
+current collectors
+devices using the process of light amplification by stimulated emission of radiation [laser] to amplify or generate light
+devices using stimulated emission of electromagnetic radiation in wave ranges other than optical
+spark gaps
+overvoltage arresters using spark gaps
+sparking plugs
+corona devices
+generating ions to be introduced into non-enclosed gases
+boards
+substations
+or switching arrangements for the supply or distribution of electric power
+installation of electric cables or lines
+or of combined optical and electric cables or lines
+emergency protective circuit arrangements
+circuit arrangements or systems for supplying or distributing electric power
+systems for storing electric energy
+dynamo-electric machines
+apparatus for conversion between ac and ac
+between ac and dc
+or between dc and dc
+and for use with mains or similar power supply systems
+conversion of dc or ac input power into surge output power
+control or regulation thereof
+electric machines not otherwise provided for
+control or regulation of electric motors
+electric generators or dynamo-electric converters
+controlling transformers
+reactors or choke coils
+generation of electric power by conversion of infra-red radiation
+visible light or ultraviolet light
+using photovoltaic [pv] modules
+generation of oscillations
+directly or by frequency-changing
+by circuits employing active elements which operate in a non-switching manner
+generation of noise by such circuits
+modulation
+demodulation or transference of modulation from one carrier to another
+amplifiers
+control of amplification
+impedance networks
+resonant circuits
+resonators
+tuning resonant circuits
+selecting resonant circuits
+pulse technique
+automatic control
+starting
+synchronisation
+or stabilisation of generators of electronic oscillations or pulses
+coding
+decoding
+code conversion in general
+transmission
+broadcast communication
+multiplex communication
+secret communication
+jamming of communication
+transmission of digital information
+telegraphic communication
+telephonic communication
+pictorial communication
+television
+selecting
+loudspeakers
+microphones
+gramophone pick-ups or like acoustic electromechanical transducers
+deaf-aid sets
+public address systems
+stereophonic systems
+indexing scheme relating to standards for electric communication technique
+wireless communication networks
+electric heating
+electric lighting not otherwise provided for
+electric circuits or apparatus specially designed for use in equipment for killing
+stunning
+or guiding living beings
+static electricity
+naturally-occurring electricity
+x-ray technique
+plasma technique
+production of accelerated electrically-charged particles or of neutrons
+production or acceleration of neutral molecular or atomic beams
+printed circuits
+casings or constructional details of electric apparatus
+manufacture of assemblages of electrical components
+subject matter not otherwise provided for in this section
