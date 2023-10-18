@@ -7,6 +7,9 @@ The patent data we use is provided by the United States Patent and Trademark Off
 #### Data Format
 You can organize the downloaded data to the format utilized in our code. Please refer to the ./example_data.
 
+#### Processed Datasets
+You can obtain the datasets utilized in this paper via https://drive.google.com/file/d/1G45OFG-j285bRYsBAtxHePqw-8mle0A5/view?usp=share_link.
+
 ## Model
 Please run the "candidate_run.sh" and "extract_run.sh", and the final result is in folder "result".
 
